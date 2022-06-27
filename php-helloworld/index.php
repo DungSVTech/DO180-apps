@@ -1,3 +1,3 @@
 <?php
-print "nWelcome to SVTECH";
+print "Welcome to SVTECH";
 ?>
